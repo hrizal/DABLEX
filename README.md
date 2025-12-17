@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/hrizal/DABLEX)
+![GitHub forks](https://img.shields.io/github/forks/hrizal/DABLEX)
+![GitHub issues](https://img.shields.io/github/issues/hrizal/DABLEX)
+
 # DABLEX - Database Explorer
 
 A lightweight, modern MySQL database management tool with a clean grayscale UI design.
