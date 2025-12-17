@@ -44,7 +44,7 @@ A lightweight, modern MySQL database management tool with a clean grayscale UI d
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/yourusername/dablex.git
+   git clone https://github.com/hrizal/dablex.git
    cd dablex
    ```
 
@@ -113,7 +113,16 @@ A lightweight, modern MySQL database management tool with a clean grayscale UI d
 
 ## Screenshots
 
-*Coming soon*
+<img width="1118" height="682" alt="Screenshot 2025-12-17 213344" src="https://github.com/user-attachments/assets/cb5d80c4-8253-4605-aef8-616e81f15b32" />
+
+<img width="1118" height="678" alt="Screenshot 2025-12-17 213410" src="https://github.com/user-attachments/assets/c053f829-f3e1-4f5d-bdd8-a0cea38aeed7" />
+
+<img width="1120" height="677" alt="Screenshot 2025-12-17 213419" src="https://github.com/user-attachments/assets/be509325-4c9a-4ee4-8892-9491187dbb88" />
+
+<img width="1124" height="669" alt="Screenshot 2025-12-17 213427" src="https://github.com/user-attachments/assets/fb31f197-0198-474a-9eb0-45051394109d" />
+
+<img width="1122" height="649" alt="Screenshot 2025-12-17 213437" src="https://github.com/user-attachments/assets/4dd5d8b7-4646-48ae-8e94-e13dd1eac413" />
+
 
 ## Technology Stack
 
